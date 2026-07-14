@@ -1,3 +1,4 @@
 Nama : Fauzi
 Pekerjaan : IT Support
 Target : DevOps
+version : Edit 1
