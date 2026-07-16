@@ -2,3 +2,8 @@ Nama : Fauzi
 Pekerjaan : IT Support
 Target : DevOps
 version : Edit 1
+Skill yang di pelajari :
+- Linux
+- Git
+- GitHub
+- Docker(coming soon)
