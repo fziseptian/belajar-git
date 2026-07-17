@@ -1,4 +1,4 @@
-Nama : Fauzi
+[Nama : Fauzi
 Pekerjaan : IT Support
 Target : DevOps
 version : Edit 1
@@ -7,3 +7,4 @@ Skill yang di pelajari :
 - Git
 - GitHub
 - Docker(coming soon)
+- add one line
